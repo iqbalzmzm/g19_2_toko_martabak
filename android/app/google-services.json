@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "941952217248",
+    "project_id": "pamartabak",
+    "storage_bucket": "pamartabak.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:941952217248:android:5b1238016e6bb7cefed9c5",
+        "android_client_info": {
+          "package_name": "com.example.g19_2_toko_martabak"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "941952217248-qpig92pfesoqj14jgsdac6blg9t7feks.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUGd6BUu1lPjbky7iiH0B2MH6wmAFD1zw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "941952217248-qpig92pfesoqj14jgsdac6blg9t7feks.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
